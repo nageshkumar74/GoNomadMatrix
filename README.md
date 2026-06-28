@@ -53,3 +53,18 @@ export interface NomadDestinationTelemetry {
     englishProficiencyIndex: number;
   };
 }
+
+2. Live Agent Orchestration
+The platform leverages structured JSON routing trees to pipe inputs into advanced LLM models, matching your precise profile variables against global destination graphs seamlessly.
+
+💳 Platform Tiers
+NomadMatrix offers an accessible sandbox environment alongside premium utility tiers for power users.
+
+👉 Enter the Live NomadMatrix Console Here
+
+Sandbox Tier: Access standard itinerary generations, test the location metrics UI, and explore base destination logs for free.
+
+Premium Explorer Tier: Unlock unlimited hyper-customized multi-city route mapping, deep-dive connectivity logs, and advanced seasonal climate-matching tools (Secured safely via integrated billing infrastructure).
+
+🔒 Security, Intellectual Property & License
+All core AI parsing prompts, backend data aggregators, and location matrix algorithms are closed-source private property. This public repository serves strictly as a technical whitepaper and SDK schema specification for integrations.
